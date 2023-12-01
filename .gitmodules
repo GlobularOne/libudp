@@ -1,0 +1,3 @@
+[submodule "cmake_utils"]
+    path = cmake
+    url = https://github.com/GlobularOne/cmake_utils.git
